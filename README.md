@@ -9,5 +9,10 @@ A web page with **infinite scroll** that continuously displays images of all kin
 # Technologies
 HTML, CSS, JavaScript
 
+# Live Demo
+Check it out here:
+
+https://jpglez.github.io/Infinite-Scroll/
+
 # Author
 Juan Pablo Gonzalez Sanmiguel
