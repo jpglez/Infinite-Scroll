@@ -1,18 +1,16 @@
-# Infinite Scroll Gallery
+# 🖼️ Infinite Scroll Gallery
 
 A web page with **infinite scroll** that continuously displays images of all kinds.
 
-# Features
-- Automatically loads new images as you scroll.  
-- Simple design focused on smooth visual experience.  
+## ✨ Features
+- 🔄 Automatically loads new images as you scroll.  
+- 🎨 Simple design focused on smooth visual experience.  
 
-# Technologies
-HTML, CSS, JavaScript
+## 🛠️ Technologies
+- **HTML**  
+- **CSS**  
+- **JavaScript**
 
-# Live Demo
-Check it out here:
+## 🚀 Live Demo
+👉 https://jpglez.github.io/Infinite-Scroll/
 
-https://jpglez.github.io/Infinite-Scroll/
-
-# Author
-Juan Pablo Gonzalez Sanmiguel
